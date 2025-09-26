@@ -1,4 +1,4 @@
-![mern stack project](https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/project-thumbnail.jpg?raw=true)
+
 # <img src="https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/logo.png?raw=true" alt="description" width="49" height="49"> **StreamVibe** - Fullstack MERN & Next.js Project for Movie and TV Show Streaming
 
 [![GitHub stars](https://img.shields.io/github/stars/amirrezaRst/StreamVibe?style=social)](https://github.com/amirrezaRst/StreamVibe/stargazers)
@@ -48,19 +48,8 @@ This project is ideal for those looking for an advanced **MERN stack** or **Next
 
 ## **Tech Stack** <a name="tech-stack"></a>
 
-### **Frontend:**
-<p style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/reactjs-logo.png?raw=true" alt="Next.js" width="55" style="margin: 0 20px;">
-  <img src="https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/nextjs-logo.png?raw=true" alt="React" width="55" style="margin: 0 20px;">
-  <img src="https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/tailwind-logo.png?raw=true" alt="Tailwind CSS" width="55" style="margin: 0 20px;">
-</p>
 
-### **Backend:**
-<p style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/nodejs-logo.png?raw=true" alt="Node.js" width="55" style="margin: 0 20px;">
-  <img src="https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/expressjs-logo.png?raw=true" alt="Express.js" width="55" style="margin: 0 20px;">
-  <img src="https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/mongodb-logo.png?raw=true" alt="MongoDB" width="55" style="margin: 0 20px;">
-</p>
+\
 
 
 
