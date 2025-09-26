@@ -121,10 +121,7 @@ Ensure MongoDB is running: The backend requires MongoDB to be running. If using 
 
 If you're looking for collaboration on web or app development projects, or if you're in need of professional software development services, we’d be happy to connect. We are open to working with clients and other developers to deliver high-quality, successful projects.
 
-- 📧 Email: [amirreza.rostami.0073@gmail.com](mailto:amirreza.rostami.0073@gmail.com)
-- 🌐 Website: [https://amirrezarostami.ir](https://amirrezarostami.ir)
-- 💼 LinkedIn: [LinkedIn Profile Address](https://www.linkedin.com/in/amirreza-rostami-2861b7265/)
-- 🌐 Telegram: [Telegram Address](https://web.telegram.org/a/#478283953)
+
 
 Feel free to get in touch via email or social media if you're interested in working together.
 
